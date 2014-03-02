@@ -29,9 +29,16 @@ MCXBux:     kthxdie
 SolidCoin:  &lt;none yet - mcxnow fkd&gt;
 </code></pre>
 
-<pre><code>INSTALLATION
+<pre><code><div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:800px;word-wrap:break-word;'>INSTALLATION
 
-1)
-2)
-3)
-</code></pre></article></center>
+1) Switch to root - type in "su" and enter password
+
+2) Change to root dir - type in "cd /"
+
+3) Git a clone of project - type in "git clone https://github.com/kthxbai2u/PSMPS.git /PSMPS/"
+
+4) Read the INSTALL file for instructions on how to proceed further with installation.
+
+</div></code></pre>
+
+</article></center>
