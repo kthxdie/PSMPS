@@ -1,8 +1,6 @@
 <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
 <a name="psmps" class="anchor" href="#psmps"><span class="octicon octicon-link"></span></a>PSMPS</h1>
 
-<p> </p>
-
 <pre><code>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
