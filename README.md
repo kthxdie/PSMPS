@@ -1,4 +1,4 @@
-    PSMPS
+PSMPS
 =====
     Title: 		PSMPS (PoolServ Multi Pool Script)<br />
     Version:	1.01 - (HelixCoin Version)<br />
