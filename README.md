@@ -1,4 +1,4 @@
-<article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a name="psmps" class="anchor" href="#psmps"><span class="octicon octicon-link"></span></a>PSMPS</h1>
+<center><article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a name="psmps" class="anchor" href="#psmps"><span class="octicon octicon-link"></span></a>PSMPS</h1>
 
 <pre><code>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
@@ -36,4 +36,4 @@ SolidCoin:  &lt;none yet - mcxnow fkd&gt;
 2)
 
 3)
-</code></pre></article>
+</code></pre></article></center>
