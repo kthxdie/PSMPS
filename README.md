@@ -1,5 +1,5 @@
 <pre style='text-align:middle;'>
-<div id='titlenshit' style='padding:10 10 10 10;width:800; word-wrap:break-word;text-align:center;'>Title:      PSMPS (PoolServ Multi Pool Script)
+<div id='titlenshit' style='padding:10 10 10 10;width:800; word-wrap:break-word;align:center;'>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
 Creator:    kthxbai2u (creds to wallet/stratum/mpos makers)
