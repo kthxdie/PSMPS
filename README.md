@@ -1,9 +1,9 @@
-<pre><center>
+<pre style='text-align:center;'>
 <div id='titlenshit' style='padding:10 10 10 10;width:800; word-wrap:break-word;'>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
 Creator:    kthxbai2u (creds to wallet/stratum/mpos makers)
-Website:    http://PoolServ.info/</div></center></pre>
+Website:    http://PoolServ.info/</div></pre>
 
 <pre><code>NOTE: These instructions are for Debian. If you are not using Debian, convert these at your own risk :P
 If you are using a VPS or Dedi that has ability to reinstall, do it and select Debian
