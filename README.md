@@ -12,8 +12,8 @@ Website:	http://PoolServ.info/<br /><br />
 /* If you are using a VPS or Dedi that has ability to reinstall, do it and select Debian        */<br /><br />
 
 /*
-**** NOTE - RELEASE WITHIN 1 WEEK ****<br /><br />
-DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)     
+    NOTE - RELEASE WITHIN 1 WEEK    <br /><br />
+    DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)     
 */
 
 BitCoin:	1DkQUg4kkaTDZMkiTgg5tUQqprB9rkoeRZ
