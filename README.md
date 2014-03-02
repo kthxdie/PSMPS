@@ -16,13 +16,11 @@ PSMPS
 
     NOTE - RELEASE WITHIN 1 WEEK    
     DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
-&nbsp;
 
     BitCoin:	1DkQUg4kkaTDZMkiTgg5tUQqprB9rkoeRZ
     LiteCoin:	Ld6DAh7dbJEbBDvjG4yxCn61S3moMBWuU6
     MaxCoin:	mabeu14vSaxfpMEBKcBnQ4JFeFSwH5sQR2
     MinCoin:	M8hnkyZM9SJwwot2xD6qbsd3TafpbH4Bwe
-&nbsp;
 
     CopperLark:	CQQuj9brvjfVJ7Ztw8kiEYsvvp8o9hAzfo
     DevCoin:	1Pzf2kBG1wbp82ECBUjgDNqyRcPjoZ66Ni
