@@ -1,10 +1,9 @@
-<center><article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a name="psmps" class="anchor" href="#psmps"><span class="octicon octicon-link"></span></a>PSMPS</h1>
-
-<pre><code>Title:      PSMPS (PoolServ Multi Pool Script)
+<pre><code>
+<div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:434px; word-wrap:break-word;'>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
 Creator:    kthxbai2u (creds to wallet/stratum/mpos makers)
-Website:    http://PoolServ.info/
+Website:    http://PoolServ.info/</div>
 </code></pre>
 
 <pre><code>NOTE: These instructions are for Debian. If you are not using Debian, convert these at your own risk :P
@@ -29,7 +28,7 @@ MCXBux:     kthxdie
 SolidCoin:  &lt;none yet - mcxnow fkd&gt;
 </code></pre>
 
-<pre><code><div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:800px;word-wrap:break-word;'>INSTALLATION
+<pre><code><div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:780px;word-wrap:break-word;'>INSTALLATION
 
 1) Switch to root - type in "su" and enter password
 
