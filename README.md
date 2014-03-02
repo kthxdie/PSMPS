@@ -5,16 +5,13 @@ PSMPS
 
     Title: 		PSMPS (PoolServ Multi Pool Script)
     Version:	1.01 - (HelixCoin Version)
-    Released:	Within 1 Week
+    Released:	RELEASE IS WITHIN 1 WEEK
     Creator:	kthxbai2u (creds to wallet/stratum/mpos makers)
     Website:	http://PoolServ.info/
 &nbsp;
 
     NOTE: These instructions are for Debian. If you are not using Debian, convert these at your own risk :P
     If you are using a VPS or Dedi that has ability to reinstall, do it and select Debian
-&nbsp;
-
-    NOTE - RELEASE WITHIN 1 WEEK
 &nbsp;
 
     DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
@@ -33,3 +30,10 @@ PSMPS
     MCXFee:		kthxdie
     MCXBux:		kthxdie
     SolidCoin:	<none yet - mcxnow fkd>
+
+    INSTALLATION
+    1)
+    
+    2)
+    
+    3)
