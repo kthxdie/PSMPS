@@ -37,7 +37,7 @@ SolidCoin:  &lt;none yet - mcxnow fkd&gt;
 
 3) Git a clone of project - type in "git clone https://github.com/kthxbai2u/PSMPS.git /PSMPS/"
 
-4) Read the INSTALL file for instructions on how to proceed further with installation.
+4) Read the /PSMPS/INSTALL file for instructions on how to proceed further with installation.
 
 </div></code></pre>
 
