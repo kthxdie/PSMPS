@@ -30,10 +30,7 @@ SolidCoin:  &lt;none yet - mcxnow fkd&gt;
 </code></pre>
 
 <pre><code>INSTALLATION
-
 1)
-
 2)
-
 3)
 </code></pre></article></center>
