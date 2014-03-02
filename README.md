@@ -3,21 +3,18 @@
 
 <p> </p>
 
-<pre><code>
-Title:      PSMPS (PoolServ Multi Pool Script)
+<pre><code>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
 Creator:    kthxbai2u (creds to wallet/stratum/mpos makers)
 Website:    http://PoolServ.info/
 </code></pre>
 
-<pre><code>
-NOTE: These instructions are for Debian. If you are not using Debian, convert these at your own risk :P
+<pre><code>NOTE: These instructions are for Debian. If you are not using Debian, convert these at your own risk :P
 If you are using a VPS or Dedi that has ability to reinstall, do it and select Debian
 </code></pre>
 
-<pre><code>
-DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
+<pre><code>DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
 
 BitCoin:    1DkQUg4kkaTDZMkiTgg5tUQqprB9rkoeRZ
 LiteCoin:   Ld6DAh7dbJEbBDvjG4yxCn61S3moMBWuU6
