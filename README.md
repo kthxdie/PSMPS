@@ -3,19 +3,21 @@ PSMPS
 
 &nbsp;
 
-    Title: 		PSMPS (PoolServ Multi Pool Script)<br />
+    <center>Title: 		PSMPS (PoolServ Multi Pool Script)<br />
     Version:	1.01 - (HelixCoin Version)<br />
     Released:	14/03/01 - 0000 EST (GMT -0500)<br />
     Creator:	kthxbai2u (creds to wallet/stratum/mpos makers)<br />
-    Website:	http://PoolServ.info/<br /><br />
+    Website:	http://PoolServ.info/<br /><br /></center>
 &nbsp;
 
-    NOTE: These instructions are for Debian. If you are not using Debian, convert these at your own risk :P
-    If you are using a VPS or Dedi that has ability to reinstall, do it and select Debian
+    <center>NOTE: These instructions are for Debian. If you are not using Debian, convert these at your own risk :P
+    If you are using a VPS or Dedi that has ability to reinstall, do it and select Debian</center>
 &nbsp;
 
-    NOTE - RELEASE WITHIN 1 WEEK    
-    DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
+    <center>NOTE - RELEASE WITHIN 1 WEEK</center>
+&nbsp;
+
+    <center>DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
 
     BitCoin:	1DkQUg4kkaTDZMkiTgg5tUQqprB9rkoeRZ
     LiteCoin:	Ld6DAh7dbJEbBDvjG4yxCn61S3moMBWuU6
@@ -30,4 +32,4 @@ PSMPS
     PrimeCoin:	ARy7oDUxNuFbRqHpiKMEx5jtHZmse1kTBP
     MCXFee:		kthxdie
     MCXBux:		kthxdie
-    SolidCoin:	<none yet - mcxnow fkd>
+    SolidCoin:	<none yet - mcxnow fkd></center>
