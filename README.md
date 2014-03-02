@@ -26,9 +26,11 @@ email. If you've donated any kind of coin please include the wallet address sent
 We will respond with a password and archive containing the rest of the installation
 instructions. You will probably be lost without them :)
 
-<b>Donations Please;</b> Or mine whatever pools I get set up (ONLY setting up pools on final server)   
+<b>Donations Please;</b> Or mine whatever pools I get set up (ONLY setting up pools
+on final server)   
 
-<b><u>Donations go towards</u></b> maintaining the server, keeping an active interest in this project, etc.</pre>
+<b><u>Donations go towards</u></b> maintaining the server, keeping an active interest
+in this project, etc.</pre>
 
 <pre><code><div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:730px;word-wrap:break-word;'>DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
 
