@@ -9,7 +9,7 @@
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
 Creator:    kthxbai2u (creds to wallet/stratum/mpos makers)
-Website:    http://PoolServ.info/</div>
+Website:    <a href="http://www.poolserv.info/" target="_blank">http://PoolServ.info/</a></div>
 </code></pre>
 
 <pre><code>NOTE: These instructions are for Debian. If you are not using Debian,
