@@ -4,8 +4,7 @@
 
 <h1><a name="psmps" class="anchor" href="#psmps"><span class="octicon octicon-link"></span></a>README.md</h1> 
 
-<pre><code>
-<div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:434px; word-wrap:break-word;'>Title:      PSMPS (PoolServ Multi Pool Script)
+<pre><code><div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:434px; word-wrap:break-word;'>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
 Creator:    kthxbai2u (creds to wallet/stratum/mpos makers)
