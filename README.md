@@ -9,8 +9,7 @@ Website:    http://PoolServ.info/</div></pre>
 If you are using a VPS or Dedi that has ability to reinstall, do it and select Debian
 </code></pre>
 
-<pre><code>
-Pre-Registration will only cost you $2USD and the price will rise to $5USD at the end of the day (2459 + 1)
+<pre><code>Pre-Registration will only cost you $2USD and the price will rise to $5USD at the end of the day (2459 + 1)
 Initial release will be a <b>mandatory $5USD</b> or equivalent in coins below.
 DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
 
