@@ -10,20 +10,17 @@ convert these at your own risk :P If you are using a VPS or Dedi that has abilit
 to reinstall, do it and select Debian
 </code></pre>
 
-<pre><code>Pre-Registration will <b>only cost you $2USD</b> and the price <b>will rise
-to $5USD at the end of the day (2459)</b>
+<pre><code>Pre-Registration will <b>only cost you $2USD</b> and the price <b>will rise to $5USD at the end of the day (2459)</b>
 Initial release will be a <b>mandatory $5USD</b> or equivalent in coins below.
 
-Once donated, please email donated@poolserv.info from your (Regular/PayPal/AlertPay)
-email. If you've donated any kind of coin please include the wallet address sent 
-from. We will respond with a password and archive containing the rest of the 
-installation instructions. You will probably be lost without them :)
+Once donated, please email donated@poolserv.info from your (Regular/PayPal/AlertPay) email. 
+If you've donated any kind of coin please include the wallet address sent from. We will 
+respond with a password and archive containing the rest of the installation instructions.
+You will probably be lost without them :)
 
-Donations Please; Or mine whatever pools I get set up (ONLY setting up pools on final 
-server)   
+Donations Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
 
-<b><u>Donations go towards</u></b> maintaining the server, keeping an active interest
-in this project, etc.
+<b><u>Donations go towards</u></b> maintaining the server, keeping an active interest in this project, etc.
 
 BitCoin:    1DkQUg4kkaTDZMkiTgg5tUQqprB9rkoeRZ
 LiteCoin:   Ld6DAh7dbJEbBDvjG4yxCn61S3moMBWuU6
