@@ -30,7 +30,7 @@ PSMPS
     MCXFee:		kthxdie
     MCXBux:		kthxdie
     SolidCoin:	<none yet - mcxnow fkd>
-
+&nbsp;
     INSTALLATION
     1)
     
