@@ -4,7 +4,7 @@ Title: 		PSMPS (PoolServ Multi Pool Script)<br />
 Version:	1.01 - (HelixCoin Version)<br />
 Released:	14/03/01 - 0000 EST (GMT -0500)<br />
 Creator:	kthxbai2u (creds to wallet/stratum/mpos makers)<br />
-Website:	http://PoolServ.info/<br /><br /><br /><br />
+Website:	http://PoolServ.info/<br /><br />
 
 
 
