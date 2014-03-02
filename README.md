@@ -10,7 +10,7 @@ Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
 Creator:    kthxbai2u (creds to wallet/stratum/mpos makers)
 Website:    <a href="http://www.poolserv.info/" target="_blank">http://PoolServ.info/</a></div>
-</code></pre>
+GitHub:     <a href="https://github.com/kthxbai2u/PSMPS.git" target="_blank">https://github.com/kthxbai2u/PSMPS.git</a></code></pre>
 
 <pre><code>NOTE: These instructions are for Debian. If you are not using Debian,
 convert these at your own risk :P If you are using a VPS or Dedicated
