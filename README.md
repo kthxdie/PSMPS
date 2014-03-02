@@ -1,4 +1,4 @@
-<pre style='text-align:center;'>
+<pre style='text-align:middle;'>
 <div id='titlenshit' style='padding:10 10 10 10;width:800; word-wrap:break-word;'>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
