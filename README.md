@@ -1,25 +1,37 @@
-<pre style='text-align:middle;'>
-<div id='titlenshit' style='padding:10 10 10 10;width:800; word-wrap:break-word;'>Title:      PSMPS (PoolServ Multi Pool Script)
+<center><article class="markdown-body entry-content" itemprop="mainContentOfPage">  
+
+<br />
+
+<h1><a name="psmps" class="anchor" href="#psmps"><span class="octicon octicon-link"></span></a>README.md</h1> 
+
+<pre><code>
+<div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:434px; word-wrap:break-word;'>Title:      PSMPS (PoolServ Multi Pool Script)
 Version:    1.01 - (HelixCoin Version)
 Released:   RELEASE IS WITHIN 1 WEEK
 Creator:    kthxbai2u (creds to wallet/stratum/mpos makers)
-Website:    http://PoolServ.info/</div></pre>
-
-<pre><code>NOTE: These instructions are for Debian. If you are not using Debian, 
-convert these at your own risk :P If you are using a VPS or Dedi that has ability
-to reinstall, do it and select Debian
+Website:    http://PoolServ.info/</div>
 </code></pre>
 
-<pre><code>Pre-Registration will <b>only cost you $2USD</b> and the price <b>will rise to $5USD at the end of the day (2459)</b>
-Initial release will be a <b>mandatory $5USD</b> or equivalent in coins below.
+<pre><code>NOTE: These instructions are for Debian. If you are not using Debian,
+convert these at your own risk :P If you are using a VPS or Dedicated
+server that has ability to reinstall, do it and select Debian
+</code></pre>
 
-Once donated, please email donated@poolserv.info from your (Regular/PayPal/AlertPay) email. If you've donated 
-any kind of coin please include the wallet address sent from. We will respond with a password and archive 
-containing the rest of the installation instructions. You will probably be lost without them :)
+<pre><b>Pre-Registration will <u>only cost you $2 USD</u> and the <u>price will rise to $5 USD</u>
+at the end of the day (2459)
+
+Initial release will be a <u>mandatory $5 USD</u> or equivalent in coins below.</b>
+
+Once donated, please email donated@poolserv.info from your (Regular/PayPal/AlertPay) email. 
+If you've donated any kind of coin please include the wallet address sent from. We will 
+respond with a password and archive containing the rest of the installation instructions.
+You will probably be lost without them :)
 
 <b>Donations Please;</b> Or mine whatever pools I get set up (ONLY setting up pools on final server)   
 
-<b><u>Donations go towards</u></b> maintaining the server, keeping an active interest in this project, etc.
+<b><u>Donations go towards</u></b> maintaining the server, keeping an active interest in this project, etc.</pre>
+
+<pre><code><div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:730px;word-wrap:break-word;'>DONATIONS Please; Or mine whatever pools I get set up (ONLY setting up pools on final server)   
 
 BitCoin:    1DkQUg4kkaTDZMkiTgg5tUQqprB9rkoeRZ
 LiteCoin:   Ld6DAh7dbJEbBDvjG4yxCn61S3moMBWuU6
@@ -34,10 +46,9 @@ WorldCoin:  WjoS92UY1DiDrNYZmLSoqf4oyUHx49sfuZ
 PrimeCoin:  ARy7oDUxNuFbRqHpiKMEx5jtHZmse1kTBP
 MCXFee:     kthxdie
 MCXBux:     kthxdie
-SolidCoin:  &lt;none yet - mcxnow fkd&gt;
-</code></pre>
+SolidCoin:  &lt;none yet - mcxnow fkd&gt;</div></code></pre>
 
-<pre><code><div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:780px;word-wrap:break-word;'>INSTALLATION
+<pre><code><div id='titlenshit' style='padding:10 10 10 10;text-align:left;width:730px;word-wrap:break-word;'>INSTALLATION
 
 1) Switch to root - type in "su" and enter password
 
@@ -46,7 +57,6 @@ SolidCoin:  &lt;none yet - mcxnow fkd&gt;
 3) Git a clone of project - type in "git clone https://github.com/kthxbai2u/PSMPS.git /PSMPS/"
 
 4) Read the /PSMPS/INSTALL file for instructions on how to proceed further with installation.
-
 </div></code></pre>
 
 </article></center>
