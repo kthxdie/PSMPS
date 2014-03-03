@@ -21,7 +21,7 @@ at the end of the day (2459)
 
 Initial release will be a <u>mandatory $5 USD</u> or equivalent in coins below.</b>
 
-Once donated, please email donated@poolserv.info from your (Regular/PayPal/AlertPay)
+Once donated, please email donated@poolserv.info from your (Regular/PayPal/AlertPay/Interac)
 email. If you've donated any kind of coin please include the wallet address sent from.
 We will respond with a password and archive containing the rest of the installation
 instructions. You will probably be lost without them :)
